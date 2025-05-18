@@ -13,9 +13,9 @@ https://github.com/yourusername/HandDrive/assets/demo.gif
 | Feature                                  | Description                                                        |
 | ---------------------------------------- | ------------------------------------------------------------------ |
 | 🖐️ **Real time hand gesture detection** | Uses **MediaPipe** for fast and efficient hand tracking            |
-| 🚗 **Intuitive gesture controls**        | - Open hand → **Accelerate**<br>- Fist → **Stop**                  |
+| 🚗 **Intuitive gesture controls**        | 🖐️ **Open Hand** – Triggers the **Accelerate** command  <br/> ✊ **Closed Hand** – Triggers the **Brake** command |
 | 🕹️ **Game automation**                  | Designed for **Hill Climb Racing**                                 |
-| 🖥️ **Webcam-based control**             | No additional hardware required — just a webcam                    |
+| 🖥️ **Webcam based control**             | No additional hardware required - just a webcam                    |
 | 🎯 **Accurate finger detection**         | Performs well even under varied lighting conditions                |
 | 🔄 **Hands free experience**             | Play the game without touching keyboard or mouse                   |
 | 📊 **Real-time visual feedback**         | Displays hand landmarks and gesture detection live                 |
