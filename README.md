@@ -67,14 +67,14 @@ Contributions are welcome and appreciated!
 1. 🍴 **Fork the repository**  
    Click the **Fork** button at the top-right of this page to create your own copy of the project.
 
-2. 📥 **Clone your forked repository**  
-   Open your terminal and run:
+2. 📥 **Clone your forked repository**
+     
    ```bash
    git clone https://github.com/KrishBharadwaj5678/HandDrive.git
    cd HandDrive
    ```
 
-3. 🌱 **Create a new branch**
+4. 🌱 **Create a new branch**
    
    ```bash
    git checkout -b feature-name
