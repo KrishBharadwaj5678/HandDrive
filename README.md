@@ -62,8 +62,44 @@ https://github.com/yourusername/HandDrive/assets/demo.gif
 
 ## 🤝 Contributing
 
-Contributions, ideas, and feature suggestions are welcome!
-Feel free to fork this repo, open an issue, or create a pull request.
+Contributions are welcome and appreciated!
 
 ---
 
+### 🛠️ Steps to Contribute
+
+1. 🍴 **Fork the repository**  
+   Click the **Fork** button at the top-right of this page to create your own copy of the project.
+
+2. 📥 **Clone your forked repository**  
+   Open your terminal and run:
+   ```bash
+   git clone https://github.com/KrishBharadwaj5678/HandDrive.git
+   cd HandDrive
+   ```
+
+3. 🌱 **Create a new branch**
+   
+   ```bash
+   git checkout -b feature-name
+   ```
+
+5. ✍️ **Make your changes**  
+
+6. ✅ **Commit your changes**
+   
+   ```bash
+   git add .
+   git commit -m "Added left-turn gesture support"
+   ```
+
+8. 📤 **Push to your forked repo**
+   
+   ```bash
+   git push origin feature-name
+   ```
+
+10. 📩 **Create a Pull Request (PR)**  
+   Go to the original repo and open a PR from your forked branch. Include a clear title and description of what you changed.
+
+---
