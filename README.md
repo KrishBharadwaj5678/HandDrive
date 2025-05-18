@@ -24,10 +24,13 @@ https://github.com/yourusername/HandDrive/assets/demo.gif
 
 ## 🛠️ Tech Stack
 
-- 🐍 Python 3
-- 🤖 [MediaPipe](https://github.com/google/mediapipe) for hand tracking
-- 🖥️ OpenCV for video processing
-- 🎮 `pyautogui` for simulating key presses
+| Technology                                              | Description                                    |
+| ------------------------------------------------------- | ---------------------------------------------- |
+| 🐍 **Python 3**                                         | Core programming language used for the project |
+| 🤖 **MediaPipe**                                        | Real time hand and finger tracking             |
+| 🖥️ **OpenCV**                                          | For webcam access and image/video processing   |
+| 🧰 **CVZone**                                           | Simplifies working with OpenCV and MediaPipe   |
+| 🎮 **pyautogui**                                        | Simulates keyboard presses to control the game |
 
 ---
 
