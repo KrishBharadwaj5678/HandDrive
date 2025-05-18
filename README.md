@@ -4,7 +4,7 @@ Welcome to **HandDrive**, a Python based computer vision project that lets you c
 
 ---
 
-https://github.com/yourusername/HandDrive/assets/demo.gif  
+[https://github.com/KrishBharadwaj5678/HandDrive/HandDriveDemo.gif] 
 
 ---
 
