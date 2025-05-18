@@ -7,26 +7,20 @@ Welcome to **HandDrive**, a Python based computer vision project that lets you c
 https://github.com/yourusername/HandDrive/assets/demo.gif  
 
 ---
-Sure! Here's an enhanced **🧠 Features** section with more relevant and appealing points:
-
----
 
 ## 🧠 Features
 
-* 🖐️ **Real-time hand gesture detection** using MediaPipe
-* 🚗 **Intuitive gesture controls**:
-  * Open hand → **Accelerate**
-  * Fist → **Stop**
-* 🕹️ **Game automation** for **Hill Climb Racing**
-* 🖥️ **Webcam-based control**, no special hardware needed
-* ⚡ **Lightweight & easy to set up** – Runs on most machines with Python
-* 🎯 **Accurate finger detection** even in varied lighting conditions
-* 🔄 **Hands-free experience** – No need for mouse or keyboard during play
-* 🧪 **Customizable controls** – Easily map gestures to other keypresses
-* 📊 **Real-time visual feedback** – Debug window shows hand landmarks and gesture status
+| Feature                                  | Description                                                        |
+| ---------------------------------------- | ------------------------------------------------------------------ |
+| 🖐️ **Real time hand gesture detection** | Uses **MediaPipe** for fast and efficient hand tracking            |
+| 🚗 **Intuitive gesture controls**        | - Open hand → **Accelerate**<br>- Fist → **Stop**                  |
+| 🕹️ **Game automation**                  | Designed for **Hill Climb Racing**                                 |
+| 🖥️ **Webcam-based control**             | No additional hardware required — just a webcam                    |
+| 🎯 **Accurate finger detection**         | Performs well even under varied lighting conditions                |
+| 🔄 **Hands free experience**             | Play the game without touching keyboard or mouse                   |
+| 📊 **Real-time visual feedback**         | Displays hand landmarks and gesture detection live                 |
 
 ---
-
 
 ## 🛠️ Tech Stack
 
