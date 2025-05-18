@@ -65,7 +65,7 @@ https://github.com/yourusername/HandDrive/assets/demo.gif
 Contributions are welcome and appreciated!
 
 1. 🍴 **Fork the repository**  
-   Click the **Fork** button at the top-right of this page to create your own copy of the project.
+   - Click the Fork button at the top-right of this page to create your own copy of the project.
 
 2. 📥 **Clone your forked repository**
      
@@ -96,4 +96,4 @@ Contributions are welcome and appreciated!
    ```
 
 10. 📩 **Create a Pull Request (PR)**  
-   Go to the original repo and open a PR from your forked branch. Include a clear title and description of what you changed.
+     - Go to the original repo and open a PR from your forked branch. Include a clear title and description of what you changed.
