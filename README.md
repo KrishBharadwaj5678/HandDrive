@@ -64,8 +64,6 @@ https://github.com/yourusername/HandDrive/assets/demo.gif
 
 Contributions are welcome and appreciated!
 
-### 🛠️ Steps to Contribute
-
 1. 🍴 **Fork the repository**  
    Click the **Fork** button at the top-right of this page to create your own copy of the project.
 
