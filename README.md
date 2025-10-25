@@ -94,4 +94,4 @@ Contributions are welcome and appreciated!
    ```
 
 10. 📩 **Create a Pull Request (PR)**  
-     - Go to the original repo and open a PR from your forked branch. Include a clear title and description of what you changed.
+     - Go to the repo and open a PR from your forked branch. Include a clear title and description of what you changed.
