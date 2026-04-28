@@ -1,10 +1,8 @@
 # ✋ HandDrive
 
-Welcome to **HandDrive**, a Python based computer vision project that lets you control the car in **Hill Climb Racing** using hand gestures. 🚀
+Welcome to **HandDrive**, a Python based computer vision project that lets you control the car in **Hill Climb Racing** using hand gestures.
 
 ![HandDriveDemo](https://github.com/KrishBharadwaj5678/HandDrive/raw/main/HandDriveDemo.gif)
-
----
 
 ## 🧠 Features
 
@@ -44,54 +42,38 @@ Welcome to **HandDrive**, a Python based computer vision project that lets you c
 
 ## 📦 Installation
 
-1. **Clone the repository**  
+### 1️⃣ Clone the Repository
+
    ```bash
    git clone https://github.com/KrishBharadwaj5678/HandDrive.git
+   ```
+
+### 2️⃣ Navigate to the Folder
+
+   ```bash
    cd HandDrive
    ```
 
-2. **Install the dependencies**
+### 3️⃣ Install the Dependencies
 
    ```bash
    pip install -r requirements.txt
    ```
 
+### 4️⃣ Run the Project
+
+   ```bash
+   python main.py
+   ```
+
 ---
 
-## 🤝 Contributing
+## Contributing 🤝
 
-Contributions are welcome and appreciated!
+Want to contribute? Here's how:
 
-1. 🍴 **Fork the repository**  
-   - Click the Fork button at the top-right of this page to create your own copy of the project.
-
-2. 📥 **Clone your forked repository**
-     
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/HandDrive.git
-   cd HandDrive
-   ```
-
-4. 🌱 **Create a new branch**
-   
-   ```bash
-   git checkout -b feature-name
-   ```
-
-5. ✍️ **Make your changes**  
-
-6. ✅ **Commit your changes**
-   
-   ```bash
-   git add .
-   git commit -m "Added left-turn gesture support"
-   ```
-
-8. 📤 **Push to your forked repo**
-   
-   ```bash
-   git push origin feature-name
-   ```
-
-10. 📩 **Create a Pull Request (PR)**  
-     - Go to the repo and open a PR from your forked branch. Include a clear title and description of what you changed.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
