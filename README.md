@@ -1,6 +1,6 @@
 # ✋ HandDrive
 
-Welcome to **HandDrive**, a Python based computer vision project that lets you control the car in **Hill Climb Racing** using hand gestures.
+**HandDrive** is a Python based computer vision project that lets you control the car in **Hill Climb Racing** using hand gestures.
 
 ![HandDriveDemo](https://github.com/KrishBharadwaj5678/HandDrive/raw/main/HandDriveDemo.gif)
 
@@ -65,15 +65,3 @@ Welcome to **HandDrive**, a Python based computer vision project that lets you c
    ```bash
    python main.py
    ```
-
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
